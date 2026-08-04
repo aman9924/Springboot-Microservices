@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Local instance of Cards Microservices"
+  contactDetails:
+    name: "Boss - QA Lead"
+    email: "boss@gmail.com"
+  onCallSupport:
+    - 9904733108
+    - 9945667544

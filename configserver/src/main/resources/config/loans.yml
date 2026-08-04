@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Local instance of Loans Microservices"
+  contactDetails:
+    name: "Aman - QA Lead"
+    email: "aman@gmail.com"
+  onCallSupport:
+    - 9904733108
+    - 9945667544

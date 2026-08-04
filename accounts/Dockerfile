@@ -1,0 +1,7 @@
+FROM eclipse-temurin:17-jre-jammy
+
+LABEL maintainer="amanMicroservice1"
+#Add the application's jar to the image
+COPY target/accounts-0.0.1-SNAPSHOT.jar accounts-0.0.1-SNAPSHOT.jar
+
+ENTRYPOINT ["java","-jar","accounts-0.0.1-SNAPSHOT.jar"]

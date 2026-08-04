@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to prod instance of Loans Microservices"
+  contactDetails:
+    name: "Boss - Prod Lead"
+    email: "boss@gmail.com"
+  onCallSupport:
+    - 9904733108
+    - 9945667544

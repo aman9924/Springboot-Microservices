@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to QA instance of Cards Microservices"
+  contactDetails:
+    name: "Aman - QA Lead"
+    email: "aman@gmail.com"
+  onCallSupport:
+    - 9904733108
+    - 9945667544
