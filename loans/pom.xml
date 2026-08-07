@@ -42,6 +42,10 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-config</artifactId>
         </dependency>
 
@@ -135,7 +139,7 @@
                 <version>3.5.1</version>
                 <configuration>
                     <to>
-                        <image>thakuramana/${project.artifactId}:ms7</image>
+                        <image>thakuramana/${project.artifactId}:ms8</image>
                     </to>
                 </configuration>
             </plugin>
